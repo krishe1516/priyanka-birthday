@@ -1,0 +1,43 @@
+video{
+    position: absolute;
+    top: 40px;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+h1{
+    font-size: 55px;
+    position: absolute;
+    left: 130px;
+    top: 220px;
+    font-family: 'Pacifico', cursive;
+    color: rgb(45, 192, 250);
+}
+#img{
+    position: absolute;
+    left: 500px;
+    top: 240px;
+}
+.content{
+    position: absolute;
+    right: 100px;
+    top: 50px;
+    width: 360px;
+    font-size: 28px;
+    color: rgb(255, 255, 255);
+    font-family: monospace;
+    background-image: url(/img/back3.jpg);
+    padding: 10px;
+  
+
+}
+.img1{
+    position: absolute;
+    top: 350px;
+}
+.img3{
+    position: absolute;
+    top: 30px;
+}
